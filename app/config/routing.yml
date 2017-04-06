@@ -1,0 +1,5 @@
+johan_gaub:
+    resource: "@JohanGaubBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
